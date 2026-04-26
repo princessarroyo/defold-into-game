@@ -1,0 +1,13 @@
+[project]
+title = About Defold
+
+[bootstrap]
+main_collection = /main/main.collection
+
+[display]
+width = 960
+height = 720
+title = About Defold - Learn While Playing
+
+[input]
+game_binding = /main/game.input_binding
